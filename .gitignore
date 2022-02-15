@@ -1,0 +1,5 @@
+bmp/**
+svg/**
+*.woff
+*.woff2
+*.ttf
