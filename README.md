@@ -1,7 +1,7 @@
 # JSRF Dialog Font
 Generate vector typeface formats from extracted textures of the JSRF standard dialog font raster
 
-The in-game source texture is:
+The combined and editted in-game source texture is:
 
 ![font source texture](media/jsrf-font-accents.png)
 
