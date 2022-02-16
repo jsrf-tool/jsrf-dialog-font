@@ -27,6 +27,6 @@ Data processing pipeline as executed by the `Makefile` to convert the font sprit
 graph LR;
     A(source font raster<br/>spritesheet)-->|unsprite.py<br/><pre>python-pillow</pre>|B("individual .bmp's of<br/>each sprite glyph<br/><i>(bmp/*)</i>");
     B-->|potrace-svg.sh<br/><pre>potrace</pre>|C("autotraced .svg's<br/>of indiviual glyphs<br/><i>(svg/*)</i>");
-    C-->|svg2ttf.py<br/><pre>fontforge</pre>|D("vector typeface<br/>from .svg's<br/><i>(.ttf,.woff.woff2)</i>");
+    C-->|svg2ttf.py<br/><pre>fontforge</pre>|D("vector typeface<br/>from .svg's<br/><i>(.ttf, .woff, .woff2)</i>");
 ```
 
