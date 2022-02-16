@@ -74,3 +74,7 @@ Most simply, run `make` in this repository to execute each intermediate build st
 Or more specifically, `make bmp`, `make svg`, and then `make font` will manually invoke the process. `make clean` can be ran to remove any build artifacts.
 
 The intermediate scripts `unsprite.py`, `potrace-svg.sh`, and `svg2ttf.py` should be straightforward enough to modify to the user's liking. Given the configuration of the code as it is in this repository, one of each font type `.ttf`, `.woff`, and `.woff2` will be generated.
+
+## Preview
+
+After generating the font files with the above build process, simply open [test.html](test.html) in your favorite web browser to preview some diagnostic sample text blocks which will use the font files if present, and show the raw .svg files at the very bottom.
