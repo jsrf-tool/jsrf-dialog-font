@@ -53,7 +53,9 @@ For use within the operating system, most operating systems support clicking on 
 * GNU Make
 
 On Arch, these can be easily installed via `pacman`:
-* `pacman --sync --refresh make potrace fontforge python-pillow`
+```
+pacman --sync --refresh make potrace fontforge python-pillow
+```
 
 ### Pipeline
 
