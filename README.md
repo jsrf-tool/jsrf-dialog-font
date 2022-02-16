@@ -44,7 +44,7 @@ For use within the operating system, most operating systems support clicking on 
 ```
 
 
-## Building
+## Build
 
 ### Dependencies
 * python-pillow &mdash; python image manipulation library
