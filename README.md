@@ -4,7 +4,9 @@
 <h3>
 <span>
 <img alt="source font texture" title="source font texture" src="jsrf-alphanumeric.png" height="150px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_right:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
+<div>:arrow_down:</div>
 <img alt="typeface pangram preview" title="typeface pangram preview" src="https://user-images.githubusercontent.com/99629389/154042887-4247e733-753e-49ff-ad5a-79423d2eddbd.png" width="500px">
 </span>
 </h3>
